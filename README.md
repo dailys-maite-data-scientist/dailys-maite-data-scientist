@@ -1,9 +1,9 @@
 ### Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Dailys Maite Aliaga Reyes, Data Scientist!
 
-- 🎓 Phd em ciência da computação pelo Centro de Informática (UFPE).
-- 🔭 Atualmente, sou analista de dados na Informa Software.
-- 😎 Tenho experiência na área de Ciência da Computação, com ênfase em Aprendizagem de Máquina e Estatística. 
-- 😄 Pronouns: Ela/dela
+- 🎓 Ph.D. in data science pelo Centro de Informática (UFPE).
+- 🔭 I am currently a data analyst at Informa Software.
+- 😎 I have experience in Computer Science, with an emphasis on Machine Learning and Statistics.
+- 😄 Pronouns: She/Her
 
 <div align="center">
   <a href="https://github.com/dailys-maite-data-scientist">
