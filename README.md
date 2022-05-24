@@ -1,6 +1,6 @@
 ### Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Dailys Maite Aliaga Reyes, Data Scientist!
 
-- 🎓 Ph.D. in data science pelo Centro de Informática (UFPE).
+- 🎓 Ph.D. in data science by the Informatics Center (UFPE).
 - 🔭 I am currently a data analyst at Informa Software.
 - 😎 I have experience in Computer Science, with an emphasis on Machine Learning and Statistics.
 - 😄 Pronouns: She/Her
