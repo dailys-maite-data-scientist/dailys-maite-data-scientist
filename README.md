@@ -1,8 +1,9 @@
 ### Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Dailys Maite Aliaga Reyes, Data Scientist!
 
-- 🎓 Ph.D. in data science by the Informatics Center (UFPE).
-- 🔭 I am currently a data analyst at Informa Software.
-- 😎 I have experience in Computer Science, with an emphasis on Machine Learning and Statistics.
+- 🎓 PhD in Computer Science (UFPE – Informatics Center)
+- 📊 8+ years of experience in Machine Learning, NLP, and Data Strategy
+- 🧠 Strong background in predictive modeling, statistics, and AI agents
+- ✨ Passionate about transforming complex challenges into scalable AI solutions
 - 😄 Pronouns: She/Her
 
 <div align="center">
